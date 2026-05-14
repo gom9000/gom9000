@@ -9,7 +9,7 @@ in the circuits, and occasionally in the way I think about everything else.
  
 I write software professionally since the late '90s.
 Outside of work I build electronics, document experiments, and maintain a slow-burning Java library
-that is trying to be a rigorous mathematical framework for algebra, linear algebra, analysis, and physics.
+that is trying to be (may be!) a rigorous mathematical framework for algebra, linear algebra, analysis, and physics.
 I also play piano and have a complicated relationship with Genesis.
  
 ---
