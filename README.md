@@ -7,8 +7,9 @@ in the circuits, and occasionally in the way I think about everything else.
  
 ---
  
-I write software professionally since the late '90s.
-Outside of work I build electronics, document experiments, and maintain a small, slow-burning Java library for abstract algebra and physics experiments.
+I write software professionally since the late '90s (by day).
+Outside of work (by night) I maintain my GitHub as a digital workbench where I track my long-term projects:
+building electronics, documenting experiments, and maintaining a small, slow-burning Java library for abstract algebra and physics experiments, or modular single-function boards (MOBs) for prototyping.
 I also play piano and have a complicated relationship with Genesis.
  
 ---
