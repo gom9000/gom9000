@@ -8,8 +8,7 @@ in the circuits, and occasionally in the way I think about everything else.
 ---
  
 I write software professionally since the late '90s.
-Outside of work I build electronics, document experiments, and maintain a slow-burning Java library
-that is trying to be (may be!) a rigorous mathematical framework for algebra, linear algebra, analysis, and physics.
+Outside of work I build electronics, document experiments, and maintain a small, slow-burning Java library for abstract algebra and physics experiments.
 I also play piano and have a complicated relationship with Genesis.
  
 ---
