@@ -7,9 +7,9 @@ in the circuits, and occasionally in the way I think about everything else.
  
 ---
  
-I write software professionally since the late '90s (by day).
+I write software professionally (by day), long enough to have started before Stack Overflow existed.
 Outside of work (by night) I maintain my GitHub as a digital workbench where I track my long-term projects:
-building electronics, documenting experiments, and maintaining a small, slow-burning Java library for abstract algebra and physics experiments, or modular single-function boards (MOBs) for prototyping.
+building electronics, documenting experiments, and maintaining a small, slow-burning Java library for abstract algebra and physics experiments, as well as modular single-function boards (MOBs) for prototyping.
 I also play piano and have a complicated relationship with Genesis.
  
 ---
