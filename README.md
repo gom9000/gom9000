@@ -2,7 +2,7 @@
  
 Software engineer by profession, electronics maker and math explorer by inclination.
  
-A long-standing interest in physics and mathematics that shows up in the algebra,
+A long-standing interest in sciences that shows up in the algebra,
 in the circuits, and occasionally in the way I think about everything else.
  
 ---
