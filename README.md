@@ -18,7 +18,7 @@ Some repositories are carefully documented, others are rough sketches. I may com
 
 This is a public workbench for documenting experiments and long-term projects.
 
-You're welcome to browse around, follow the process, or pick up anything useful along the way.
+You are welcome, feel free to browse around. Some things are finished, some are still taking shape.
 
 ---
  
