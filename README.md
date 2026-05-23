@@ -14,12 +14,6 @@ I also play the piano and have a complicated relationship with Genesis.
 
 Some repositories are carefully documented, others are rough sketches. I may come back to refine them, or quietly delete them. That's just part of how this workbench works, with sawdust on the floor and half-finished prototypes.
 
-### Why this exists
-
-This is a public workbench for documenting experiments and long-term projects.
-
-You are welcome, feel free to browse around. Some things are finished, some are still taking shape.
-
 ---
  
 ## Index
