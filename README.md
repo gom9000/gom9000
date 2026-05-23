@@ -2,7 +2,7 @@
  
 Software engineer by profession, electronics maker and math explorer by inclination.
  
-A long-standing interest in sciences that shows up in the maths,
+A long-standing interest in sciences that shows up in the math,
 in the circuits, and occasionally in the way I think about everything else.
  
 ---
@@ -21,7 +21,7 @@ Some repositories are carefully documented, others are rough sketches. I may com
 This account is organized around a few thematic hubs.
 Each hub is an index of independent repositories grouped by topic.
  
-- **[electronic-suite](https://github.com/gom9000/electronic-suite)** — electronics: lab instruments, documented experiences, component libraries, standalone projects
+- **[electronic-suite](https://github.com/gom9000/electronic-suite)** — electronics: lab instruments, documented experiences, component libraries, projects
 - *more suites coming*
 
 For a full picture of what's here, start from the hubs - though some repositories live outside them: older experiments, rough sketches, or things not yet worth a hub.
