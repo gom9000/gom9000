@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.jpg" alt="Alessandro Fraschetti - Digital Workbench" width="100%">
+</p>
 # Alessandro Fraschetti
  
 Software engineer by profession, electronics maker and math explorer by inclination.
