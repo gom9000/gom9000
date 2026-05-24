@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Alessandro Fraschetti - Digital Workbench" width="100%">
+  <img src="banner.png" alt="Alessandro Fraschetti - Digital Workbench" width="100%", height="400px">
 </p>
 
 # Alessandro Fraschetti
