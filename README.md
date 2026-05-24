@@ -26,6 +26,7 @@ This account is organized around a few thematic hubs.
 Each hub is an index of independent repositories grouped by topic.
  
 - **[electronic-suite](https://github.com/gom9000/electronic-suite)** — electronics: lab instruments, documented experiences, component libraries, projects
+- **[music-suite](https://github.com/gom9000/music-suite)** — music: instruments, effects, sheet music, utility projects
 - *more suites coming*
 
 For a full picture of what's here, start from the hubs - though some repositories live outside them: older experiments, rough sketches, or things not yet worth a hub.
