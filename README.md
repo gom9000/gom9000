@@ -33,7 +33,7 @@ Each suite is an index of independent repositories grouped by topic.
 For a full picture of what's here, start from the hubs - though some repositories live outside them: older experiments, rough sketches, or things not yet worth a hub.
 
 ***Note on organization**: These suites are organized by domain and purpose, not by technology.
-You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool. The software suite is reserved for pure computing utilities and logic explorations.*
+You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool. The software suite is reserved for pure computing utilities and logic experiences.*
 
 ---
  
