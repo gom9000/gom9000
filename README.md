@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Alessandro Fraschetti - Digital Workbench" width="100%", height="400px">
+  <img src="banner.png" alt="Alessandro Fraschetti - Digital Workbench" width="100%" height="400px">
 </p>
 
 # Alessandro Fraschetti
@@ -22,8 +22,8 @@ Some repositories are carefully documented, others are rough sketches. I may com
  
 ## Index
  
-This account is organized around a few thematic hubs.
-Each hub is an index of independent repositories grouped by topic.
+This account is organized around a few thematic hubs (the suites).
+Each suite is an index of independent repositories grouped by topic.
 
 ***Note on organization**: These suites are organized by domain and purpose, not by technology.
 You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool. The software suite is reserved for pure computing utilities and logic explorations.*
