@@ -25,10 +25,10 @@ Some repositories are carefully documented, others are rough sketches. I may com
 This account is organized around a few thematic hubs (the suites).
 Each suite is an index of independent repositories grouped by topic.
 
-- **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** — electronics: lab instruments, documented experiences, component libraries, projects
-- **[software suite](https://github.com/gom9000/gos-software-suite)** — software: utilities, funnies, old projects, very old projects
-- **[music suite](https://github.com/gom9000/gos-music-suite)** — music: instruments, effects, sheet music, utility projects
-- **[explore suite](https://github.com/gom9000/gos-explore-suite)** — explorations: abstract algebra, fractals, physics prototypes, ad-hoc scientific experiences
+- **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** :- electronics: lab instruments, documented experiences, component libraries, projects
+- **[software suite](https://github.com/gom9000/gos-software-suite)** - software: utilities, funnies, old projects, very old projects
+- **[music suite](https://github.com/gom9000/gos-music-suite)** - music: instruments, effects, sheet music, utility projects
+- **[explore suite](https://github.com/gom9000/gos-explore-suite)** - explorations: abstract algebra, fractals, physics prototypes, ad-hoc scientific experiences
 
 For a full picture of what's here, start from the hubs - though some repositories live outside them: older experiments, rough sketches, or things not yet worth a hub.
 
