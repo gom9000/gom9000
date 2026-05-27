@@ -24,6 +24,9 @@ Some repositories are carefully documented, others are rough sketches. I may com
  
 This account is organized around a few thematic hubs.
 Each hub is an index of independent repositories grouped by topic.
+
+***Note on organization**: These suites are organized by domain and purpose, not by technology.
+You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool. The software suite is reserved for pure computing utilities and logic explorations.*
  
 - **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** — electronics: lab instruments, documented experiences, component libraries, projects
 - **[software suite](https://github.com/gom9000/gos-software-suite)** — software: utilities, funnies, old projects, very old projects
