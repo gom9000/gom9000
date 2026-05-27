@@ -11,7 +11,7 @@ in the circuits, and occasionally in the way I think about everything else.
  
 ---
 
-I write software professionally (by day) long enough to have started before Stack Overflow existed.<br/>
+I write software (by day) long enough to have started before Stack Overflow existed.<br/>
 Outside of work (by night), I maintain my GitHub as a digital workbench where I track my long-term projects:
 building electronics, documenting experiments, maintaining a small, slow-burning software library for abstract algebra, alongside a modular hardware library of single-function boards (MOBs) for prototyping, and even making vintage floppy disk drives play music.
 I also play the piano and have a complicated relationship with Genesis.
