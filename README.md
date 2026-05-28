@@ -7,7 +7,7 @@
 Software engineer by profession, electronics maker and math explorer by inclination.
  
 A long-standing interest in sciences that shows up in the math,
-in the circuits, and occasionally in the way I think about everything else.
+in the circuits, and occasionally in the way I think about everything else: the pragmatism of building like a maker, the curiosity of thinking like a physicist.
  
 ---
 
