@@ -4,7 +4,7 @@
 
 # Alessandro Fraschetti
 
-Software engineer by profession, electronics maker and science explorer by inclination.<br/>
+Software engineer by profession, electronics maker and *science explorer* by inclination.<br/>
 Interests that show up in the math, in the circuits, and occasionally in the way I think about everything else.
  
 ---
