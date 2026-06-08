@@ -21,7 +21,7 @@ Some repositories are carefully documented, others are rough sketches. I may com
 ## Index
  
 This account is organized around a few thematic hubs (the suites).
-Each suite is an index of independent repositories grouped by topic.
+Each suite is an index of repositories grouped by topic.
 
 - **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** - electronics: lab instruments, documented experiences, component libraries, projects
 - **[software suite](https://github.com/gom9000/gos-software-suite)** - software: utilities, funnies, old projects, very old projects
