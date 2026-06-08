@@ -18,7 +18,7 @@ Some repositories are carefully documented, others are rough sketches. I may com
 
 ---
  
-## Index
+## The Hubs (Suites)
  
 This account is organized around a few thematic hubs (the suites).
 Each suite is an index of repositories grouped by topic.
