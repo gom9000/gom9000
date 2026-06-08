@@ -4,8 +4,8 @@
 
 # Alessandro Fraschetti
 
-Software engineer by profession, electronics maker and *science explorer* by inclination.<br/>
-Interests that show up in the math, in the circuits, and occasionally in the way I think about everything else.
+Software engineer by profession, curious mind by inclination.<br/>
+Interests that show up in the circuits, in the math, and occasionally in the way I think about everything else.
  
 ---
 
@@ -23,15 +23,15 @@ Some repositories are carefully documented, others are rough sketches. I may com
 This account is organized around a few thematic hubs (the suites).
 Each suite is an index of repositories grouped by topic.
 
-- **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** - lab instruments, documented experiences, component libraries, projects
-- **[software suite](https://github.com/gom9000/gos-software-suite)** - utilities, funnies, old projects, very old projects
-- **[music suite](https://github.com/gom9000/gos-music-suite)** - instruments, effects, sheet music, utility projects
-- **[explore suite](https://github.com/gom9000/gos-explore-suite)** - algebra, fractals, home-made scientific experiences
+- **[electronic suite](https://github.com/gom9000/gos-electronic-suite)** - lab instruments, documented experiences, component libraries and projects
+- **[software suite](https://github.com/gom9000/gos-software-suite)** - utilities, funnies, old projects and very old projects
+- **[music suite](https://github.com/gom9000/gos-music-suite)** - instruments, effects, sheet music and utility projects
+- **[explore suite](https://github.com/gom9000/gos-explore-suite)** - algebra, fractals and home-made scientific experiences
 
 For a full picture of what's here, start from the hubs - though some repositories live outside them: older experiments, rough sketches, or things not yet worth a hub.
 
 ***Note on organization**: These suites are organized by domain and purpose, not by technology.
-You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool. The software suite is reserved for pure computing utilities.*
+You will find firmware and code within the electronic suite when they serve the project, and hardware designs within the music suite when their goal is a musical tool.*
 
 ---
  
